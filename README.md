@@ -6,6 +6,7 @@ sharing resources and knowledge of how the team create and maintain it
 ## What is COVID Bot?
 
 [COVID Bot](https://www.facebook.com/covid19bot/) is a faceboot chatbot for assert the risk of powered [chatfuel](https://chatfuel.com/) platform. It is a fast reflex to soothe the covid situation in early 2020, in Thailand just before the 1st wave community spread. It was so early that it was pioneer a few facebook bots that adopted our idea to their countries. 
+
 - 
 - My
 - 
